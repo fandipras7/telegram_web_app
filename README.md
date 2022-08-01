@@ -128,8 +128,8 @@ REACT_APP_API_URL = [API_URL]
 <table>
  
   <tr>
-    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659328590/portofolio/telechat/Login_2_wullnu.png" alt="Login Page" width=100%></td>
-    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659328591/portofolio/telechat/register_pmxd4k.png" width=100%/></td>
+    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659348563/portofolio/telechat/login_inytqb.png" alt="Login Page" width=100%></td>
+    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659348563/portofolio/telechat/register_r7ftg5.png" width=100%/></td>
   </tr>
    <tr>
     <td>Login Page</td>
