@@ -63,7 +63,7 @@ export const updateAva = async (data) => {
   return new Promise((resolve, reject) => {
     const token = localStorage.getItem("token");
     axios
-      .post(`${process.env.REACT_APP_API_URL}/users/profile`, data, {
+      .put(`${process.env.REACT_APP_API_URL}/users/profile`, data, {
         headers: {
           Authorization: `Bearer ${token}`,
         },
