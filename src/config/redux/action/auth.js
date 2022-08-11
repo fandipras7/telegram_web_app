@@ -9,7 +9,7 @@ export const register = async (data, alert, navigate) => {
       text: `${result.data.message}`,
       icon: "Success",
     });
-    navigate("/login");
+    navigate("/");
   } catch (error) {
     if (error.response.status === 403) {
       alert.fire({
