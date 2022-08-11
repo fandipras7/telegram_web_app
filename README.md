@@ -128,16 +128,16 @@ REACT_APP_API_URL = [API_URL]
 <table>
  
   <tr>
-    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1658734416/portofolio/telechat/Login_lu5tti.png" alt="Login Page" width=100%></td>
-    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1658734415/portofolio/telechat/Register_ii6sqv.png" width=100%/></td>
+    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659348563/portofolio/telechat/login_inytqb.png" alt="Login Page" width=100%></td>
+    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659348563/portofolio/telechat/register_r7ftg5.png" width=100%/></td>
   </tr>
    <tr>
     <td>Login Page</td>
     <td>Register Page</td>
   </tr>
   <tr>
-    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1658734415/portofolio/telechat/riwayat_chat_edr6yp.png" alt="Chat List" width=100%></td>
-    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1658734415/portofolio/telechat/modul_untg1m.png" alt="Menu" width=100%/></td>
+    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659328325/portofolio/telechat/chat4_vfrnyk.png" alt="Chat List" width=100%></td>
+    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659328561/portofolio/telechat/menu_recf6l.png" alt="Menu" width=100%/></td>
   </tr>
   <tr>
     <td>Chat List</td>
@@ -145,8 +145,8 @@ REACT_APP_API_URL = [API_URL]
   </tr>
 
   <tr>
-    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1658734415/portofolio/telechat/profile_ep938t.png" alt="Profile Sender" width=100%></td>
-    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1658734415/portofolio/telechat/receiverProfile_xr9xhx.png" alt="Profil Receiver" width=100%/></td>
+    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659315134/portofolio/telechat/myprofile_2_mzlrib.png" alt="Profile Sender" width=100%></td>
+    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659328998/portofolio/telechat/receiver_profile_quieoh.png" alt="Profil Receiver" width=100%/></td>
   </tr>
   <tr>
       <td>Profile Sender</td>
@@ -178,7 +178,7 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Web Service`](https://chatan-app.herokuapp.com/)
 
-:rocket: [`Demo Telegram Chatting`](https://master--precious-pika-9e595f.netlify.app/login)
+:rocket: [`Demo Telegram Chatting`](https://master--precious-pika-9e595f.netlify.app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
